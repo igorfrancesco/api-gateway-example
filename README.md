@@ -1,2 +1,2 @@
-# React and Golang JWT Authentication
+# Spring boot Java JWT Authentication
 
